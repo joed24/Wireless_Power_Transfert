@@ -1,0 +1,78 @@
+\contentsline {section}{Contents}{2}
+\contentsline {section}{R\IeC {\'e}merciements}{4}
+\contentsline {section}{\numberline {1}Introduction}{5}
+\contentsline {section}{\numberline {2}Historique}{6}
+\contentsline {section}{\numberline {3}Classification des techniques de WPT}{8}
+\contentsline {subsection}{\numberline {3.1}M\IeC {\'e}thodes bas\IeC {\'e}es sur l\IeC {\textquoteright }induction magn\IeC {\'e}tique}{8}
+\contentsline {subsubsection}{\numberline {3.1.1}Induction magn\IeC {\'e}tique classique}{8}
+\contentsline {paragraph}{Principe: \\}{9}
+\contentsline {paragraph}{Distance efficace: \\}{9}
+\contentsline {paragraph}{Gamme de fr\IeC {\'e}quence: \\}{9}
+\contentsline {paragraph}{Avantages: }{9}
+\contentsline {paragraph}{Inconv\IeC {\'e}nients: }{9}
+\contentsline {subsubsection}{\numberline {3.1.2}R\IeC {\'e}sonance magn\IeC {\'e}tique}{9}
+\contentsline {paragraph}{Principe: \\}{9}
+\contentsline {paragraph}{Distance efficace: \\}{10}
+\contentsline {paragraph}{Gamme de fr\IeC {\'e}quence: \\}{10}
+\contentsline {paragraph}{Avantages: }{10}
+\contentsline {paragraph}{Inconv\IeC {\'e}nients: }{10}
+\contentsline {subsubsection}{\numberline {3.1.3}Ondes radio-fr\IeC {\'e}quences}{10}
+\contentsline {paragraph}{Principe: \\}{10}
+\contentsline {paragraph}{Distance efficace: \\}{10}
+\contentsline {paragraph}{Gamme de fr\IeC {\'e}quence: \\}{10}
+\contentsline {paragraph}{Avantages: }{10}
+\contentsline {paragraph}{Inconv\IeC {\'e}nients: }{11}
+\contentsline {subsubsection}{\numberline {3.1.4}Micro-ondes}{11}
+\contentsline {paragraph}{Principe: \\}{11}
+\contentsline {paragraph}{Distance efficace: \\}{11}
+\contentsline {paragraph}{Gamme de fr\IeC {\'e}quence: \\}{11}
+\contentsline {paragraph}{Avantages: }{11}
+\contentsline {paragraph}{Inconv\IeC {\'e}nients: }{11}
+\contentsline {subsubsection}{\numberline {3.1.5}Laser ou infrarouge}{11}
+\contentsline {paragraph}{Principe: \\}{12}
+\contentsline {paragraph}{Distance efficace: \\}{12}
+\contentsline {paragraph}{Gamme de fr\IeC {\'e}quence: }{12}
+\contentsline {paragraph}{Avantages: }{12}
+\contentsline {paragraph}{Inconv\IeC {\'e}nients: }{12}
+\contentsline {subsection}{\numberline {3.2}M\IeC {\'e}thodes bas\IeC {\'e}es sur le couplage capacitif}{12}
+\contentsline {paragraph}{Principe: \\}{13}
+\contentsline {paragraph}{Composants principaux: }{13}
+\contentsline {paragraph}{Transmission et r\IeC {\'e}ception du champ \IeC {\'e}lectrique: }{13}
+\contentsline {paragraph}{Distance efficace: \\}{13}
+\contentsline {paragraph}{Gamme de fr\IeC {\'e}quence: \\}{13}
+\contentsline {paragraph}{Avantages: }{14}
+\contentsline {paragraph}{Inconv\IeC {\'e}nients: }{14}
+\contentsline {section}{\numberline {4}Simulation sur Simulink}{15}
+\contentsline {subsection}{\numberline {4.1}Objectif de la simulation}{15}
+\contentsline {subsection}{\numberline {4.2}Sch\IeC {\'e}ma du syst\IeC {\`e}me WPT \IeC {\`a} simuler}{15}
+\contentsline {subsection}{\numberline {4.3}Param\IeC {\`e}tres de simulation}{16}
+\contentsline {subsection}{\numberline {4.4}Justification du choix des composants et des valeurs}{16}
+\contentsline {subsection}{\numberline {4.5}\IeC {\'E}tapes de la simulation}{17}
+\contentsline {subsection}{\numberline {4.6}R\IeC {\'e}sultats attendus}{17}
+\contentsline {paragraph}{La tension au primaire\\}{17}
+\contentsline {paragraph}{Le courant au primaire\\}{17}
+\contentsline {paragraph}{La tension au secondaire\\}{18}
+\contentsline {paragraph}{Le courant au secondaire\\}{18}
+\contentsline {subsection}{\numberline {4.7}Discutions}{20}
+\contentsline {section}{\numberline {5}Lois physiques utilis\IeC {\'e}es et leurs applications dans le WPT}{22}
+\contentsline {subsection}{\numberline {5.1}Loi de Faraday}{22}
+\contentsline {subsection}{\numberline {5.2}Loi d\IeC {\textquoteright }Amp\IeC {\`e}re-Maxwell}{23}
+\contentsline {subsection}{\numberline {5.3}Principe de r\IeC {\'e}sonance}{23}
+\contentsline {section}{\numberline {6}Coefficient de couplage}{23}
+\contentsline {section}{\numberline {7}Applications des syst\IeC {\`e}mes de transfert d'\IeC {\'e}nergie sans fil (WPT)}{24}
+\contentsline {subsection}{\numberline {7.1}Chargement sans fil d'appareils \IeC {\'e}lectroniques}{24}
+\contentsline {subsection}{\numberline {7.2}V\IeC {\'e}hicules \IeC {\'e}lectriques}{25}
+\contentsline {subsection}{\numberline {7.3}Applications industrielles}{25}
+\contentsline {subsection}{\numberline {7.4}Applications m\IeC {\'e}dicales}{25}
+\contentsline {subsection}{\numberline {7.5}Domotique et Internet des objets (IoT)}{25}
+\contentsline {subsection}{\numberline {7.6}Conclusion sur les applications}{25}
+\contentsline {section}{\numberline {8}Avantages et inconv\IeC {\'e}nients des syst\IeC {\`e}mes WPT}{25}
+\contentsline {subsection}{\numberline {8.1}Avantages}{26}
+\contentsline {subsection}{\numberline {8.2}Inconv\IeC {\'e}nients}{26}
+\contentsline {subsection}{\numberline {8.3}Conclusion sur les avantages et inconv\IeC {\'e}nients}{26}
+\contentsline {section}{\numberline {9}Recherches actuelles, innovations et perspectives d'avenir}{26}
+\contentsline {subsection}{\numberline {9.1}Recherches actuelles}{27}
+\contentsline {subsection}{\numberline {9.2}Innovations}{27}
+\contentsline {subsection}{\numberline {9.3}Perspectives d'avenir}{27}
+\contentsline {section}{\numberline {10}Conclusion}{28}
+\contentsline {section}{Bibliographie}{29}
