@@ -1,7 +1,9 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2022.11.8)  4 JUL 2025 16:25
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2022.11.8)  18 JUL 2025 18:56
 entering extended mode
 **MATUMBA_KANIKI_TFC_L3_GE.tex
-(C:\Users\WINDOWS10\Desktop\TFC\MATUMBA_KANIKI_TFC_L3_GE.tex
+
+(C:\Users\WINDOWS10\Desktop\TFC\Wireless_Power_Transfert\MATUMBA_KANIKI_TFC_L3_
+GE.tex
 LaTeX2e <2009/09/24>
 Babel <v3.8l> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -421,7 +423,8 @@ Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 \extratabsurround=\skip46
 \backup@length=\skip47
 )
-(C:\Users\WINDOWS10\Desktop\TFC\MATUMBA_KANIKI_TFC_L3_GE.aux)
+(C:\Users\WINDOWS10\Desktop\TFC\Wireless_Power_Transfert\MATUMBA_KANIKI_TFC_L3_
+GE.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
@@ -434,8 +437,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count107
 \scratchdimen=\dimen137
@@ -493,7 +495,8 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 ) [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-(C:\Users\WINDOWS10\Desktop\TFC\MATUMBA_KANIKI_TFC_L3_GE.toc [2])
+(C:\Users\WINDOWS10\Desktop\TFC\Wireless_Power_Transfert\MATUMBA_KANIKI_TFC_L3_
+GE.toc [2])
 \tf@toc=\write3
  [3] [4]
 Underfull \hbox (badness 10000) in paragraph at lines 32--33
@@ -527,7 +530,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 63--64
 
  []
 
-[6 <C:/Users/WINDOWS10/Desktop/TFC/tour_tesla.png>] [7]
+[6 <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfert/tour_tesla.png>]
+[7]
 Underfull \hbox (badness 10000) in paragraph at lines 72--73
 
  []
@@ -548,12 +552,12 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 80.
- [8 <C:/Users/WINDOWS10/Desktop/TFC/WPT_inductif.png> <C:/Users/WINDOWS10/Deskt
-op/TFC/WPT_inductif_1.png>] [9] [10] [11] <WPT_capacitif.png, id=54, 242.40562p
-t x 140.02313pt>
+ [8 <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfert/WPT_inductif.png> 
+<C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfert/WPT_inductif_1.png>] [
+9] [10] [11]
+<WPT_capacitif.png, id=54, 242.40562pt x 140.02313pt>
 File: WPT_capacitif.png Graphic file (type png)
-
-<use WPT_capacitif.png>
+ <use WPT_capacitif.png>
 <WPT_capacitif_3.png, id=55, 304.13625pt x 216.05719pt>
 File: WPT_capacitif_3.png Graphic file (type png)
 
@@ -571,9 +575,10 @@ Overfull \hbox (42.68173pt too wide) in paragraph at lines 204--209
 [] 
  []
 
-[12 <C:/Users/WINDOWS10/Desktop/TFC/WPT_capacitif.png> <C:/Users/WINDOWS10/Desk
-top/TFC/WPT_capacitif_3.png>] [13 <C:/Users/WINDOWS10/Desktop/TFC/WPT_capacitif
-_1.png>] <classification_WPT.png, id=67, 602.25pt x 283.0575pt>
+[12 <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfert/WPT_capacitif.png>
+ <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfert/WPT_capacitif_3.png>]
+[13 <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfert/WPT_capacitif_1.pn
+g>] <classification_WPT.png, id=67, 602.25pt x 283.0575pt>
 File: classification_WPT.png Graphic file (type png)
 
 <use classification_WPT.png>
@@ -581,10 +586,12 @@ Overfull \hbox (42.68173pt too wide) in paragraph at lines 253--254
 [] 
  []
 
-[14 <C:/Users/WINDOWS10/Desktop/TFC/classification_WPT.png>]
-<WPT_simul.png, id=72, 898.10532pt x 298.86656pt>
+[14 <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfert/classification_WPT
+.png>] <WPT_simul.png, id=72, 898.10532pt x 298.86656pt>
 File: WPT_simul.png Graphic file (type png)
- <use WPT_simul.png> [15 <C:/Users/WINDOWS10/Desktop/TFC/WPT_simul.png>] [16]
+ <use WPT_simul.png>
+[15 <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfert/WPT_simul.png>]
+[16]
 
 LaTeX Warning: Command \' invalid in math mode on input line 329.
 
@@ -595,15 +602,15 @@ File: WPT_simul_pv.png Graphic file (type png)
 <WPT_simul_pc.png, id=87, 1028.34187pt x 549.55313pt>
 File: WPT_simul_pc.png Graphic file (type png)
  <use WPT_simul_pc.png>
-[17 <C:/Users/WINDOWS10/Desktop/TFC/WPT_simul_pv.png>]
+[17 <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfert/WPT_simul_pv.png>]
 <WPT_simul_sv.png, id=92, 1028.34187pt x 550.30594pt>
 File: WPT_simul_sv.png Graphic file (type png)
  <use WPT_simul_sv.png>
 <WPT_simul_sc.png, id=93, 1027.58907pt x 547.2947pt>
 File: WPT_simul_sc.png Graphic file (type png)
  <use WPT_simul_sc.png>
-[18 <C:/Users/WINDOWS10/Desktop/TFC/WPT_simul_pc.png> <C:/Users/WINDOWS10/Deskt
-op/TFC/WPT_simul_sv.png>]
+[18 <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfert/WPT_simul_pc.png> 
+<C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfert/WPT_simul_sv.png>]
 <WPT_simul_gain.png, id=99, 889.82437pt x 296.60812pt>
 File: WPT_simul_gain.png Graphic file (type png)
 
@@ -615,8 +622,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 350--352
 <WPT_simul_gain1.png, id=100, 366.61969pt x 165.61874pt>
 File: WPT_simul_gain1.png Graphic file (type png)
 
-<use WPT_simul_gain1.png> [19 <C:/Users/WINDOWS10/Desktop/TFC/WPT_simul_sc.png>
- <C:/Users/WINDOWS10/Desktop/TFC/WPT_simul_gain.png>]
+<use WPT_simul_gain1.png> [19 <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Tr
+ansfert/WPT_simul_sc.png> <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transf
+ert/WPT_simul_gain.png>]
 <WPT_simul_gain_graph.png, id=107, 484.05844pt x 324.46219pt>
 File: WPT_simul_gain_graph.png Graphic file (type png)
 
@@ -630,9 +638,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 367--369
 
  []
 
-[20 <C:/Users/WINDOWS10/Desktop/TFC/WPT_simul_gain1.png> <C:/Users/WINDOWS10/De
-sktop/TFC/WPT_simul_gain_graph.png>]
-<WPT_disc.png, id=113, 413.29407pt x 300.3722pt>
+[20 <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfert/WPT_simul_gain1.pn
+g> <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfert/WPT_simul_gain_grap
+h.png>] <WPT_disc.png, id=113, 413.29407pt x 300.3722pt>
 File: WPT_disc.png Graphic file (type png)
  <use WPT_disc.png>
 Underfull \hbox (badness 10000) in paragraph at lines 372--374
@@ -642,8 +650,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 372--374
 <WPT_disc_1.png, id=114, 463.7325pt x 304.13625pt>
 File: WPT_disc_1.png Graphic file (type png)
  <use WPT_disc_1.png>
-[21 <C:/Users/WINDOWS10/Desktop/TFC/WPT_disc.png>] [22 <C:/Users/WINDOWS10/Desk
-top/TFC/WPT_disc_1.png>] [23]
+[21 <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfert/WPT_disc.png>]
+[22 <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfert/WPT_disc_1.png>]
+[23]
 Overfull \hbox (4.39595pt too wide) in paragraph at lines 475--476
 \T1/cmr/m/n/12 Les sys-tèmes de trans-fert d'énergie sans fil ($\OML/cmm/m/it/1
 2 WPT$\T1/cmr/m/n/12 ) ont un large éven-tail d'applications
@@ -691,36 +700,37 @@ Overfull \hbox (28.80817pt too wide) in paragraph at lines 582--583
 and-receiver-circuit/ 
  []
 
-[29] (C:\Users\WINDOWS10\Desktop\TFC\MATUMBA_KANIKI_TFC_L3_GE.aux) ) 
+[29]
+(C:\Users\WINDOWS10\Desktop\TFC\Wireless_Power_Transfert\MATUMBA_KANIKI_TFC_L3_
+GE.aux) ) 
 Here is how much of TeX's memory you used:
  3090 strings out of 494019
- 38774 string characters out of 3143870
+ 38999 string characters out of 3143870
  100282 words of memory out of 3000000
  6309 multiletter control sequences out of 15000+200000
  20822 words of font info for 60 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  27i,6n,24p,716b,194s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program
- Files (x86)/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-t1.enc}<C:/Program Fi
-les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program File
-s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files 
-(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files (x8
-6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files (x86)/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x86)/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/ty
-pe1/public/cm-super/sfbx1200.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1
-/public/cm-super/sfbx1440.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pu
-blic/cm-super/sfbx1728.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
-c/cm-super/sfbx2074.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/c
-m-super/sfrm1200.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-s
-uper/sfrm1440.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-supe
-r/sfrm2074.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-super/s
-fti1200.pfb>
-Output written on MATUMBA_KANIKI_TFC_L3_GE.pdf (29 pages, 1494802 bytes).
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-t
+1.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.
+pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pf
+b><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><
+C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/
+Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Pro
+gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Fi
+les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files 
+(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x
+86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)
+/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1200.pfb><C:/Program Files (x86)/Mi
+KTeX 2.9/fonts/type1/public/cm-super/sfbx1440.pfb><C:/Program Files (x86)/MiKTe
+X 2.9/fonts/type1/public/cm-super/sfbx1728.pfb><C:/Program Files (x86)/MiKTeX 2
+.9/fonts/type1/public/cm-super/sfbx2074.pfb><C:/Program Files (x86)/MiKTeX 2.9/
+fonts/type1/public/cm-super/sfrm1200.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
+ts/type1/public/cm-super/sfrm1440.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/
+type1/public/cm-super/sfrm2074.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/typ
+e1/public/cm-super/sfti1200.pfb>
+Output written on MATUMBA_KANIKI_TFC_L3_GE.pdf (29 pages, 1461259 bytes).
 PDF statistics:
  203 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
