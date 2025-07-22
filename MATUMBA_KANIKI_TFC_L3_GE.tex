@@ -12,7 +12,7 @@
 \usepackage{array}
 
 \title{\textbf{Wireless Power Transfert} $\left( WPT\right)$. \vspace{5cm}}
-\author{ \ \\Fait par: MATUMBA KANIKI Joed\\ \ \\ Directeur: Prof LIASSA NKOY Matthieu\\ \ \\ Co-Directeur: Assistant Elie BOTULI \\ }
+\author{ \ \\Fait par: MATUMBA KANIKI Joed\\ \ \\ Directeur: Prof. Dr. Ir. Matthieu LIASSA NKOY LUTAKA-LUTAKA\\ \ \\ Co-Directeur: Ass. Ir. Elie BOTULI EBANZA\\ }
 
 \date{\vfill \today }
 
@@ -67,6 +67,8 @@
 	
 	\newpage
 	\section{Classification des techniques de WPT}
+	
+	Pour mieux appréhender les différentes approches du transfert d’énergie sans fil (WPT), il est pertinent de les regrouper selon le principe physique sous-jacent utilisé pour assurer la transmission. Deux grandes catégories se dégagent généralement : les méthodes basées sur l’induction magnétique et celles basées sur le couplage capacitif. Chacune de ces techniques présente des avantages et des limites spécifiques, en fonction de la distance de transmission, de la puissance requise ou encore du contexte d’application. La suite de cette section détaille ces différentes méthodes.
 	
 	\subsection{Méthodes basées sur l’induction magnétique}
 	Les méthodes basées sur l'induction magnétique utilisent des champs magnétiques pour transférer l'énergie.\\
@@ -243,7 +245,7 @@
 
 	
 	\subsection*{*Remarques}
-	La transmission par couplage inductif et capacitif est un classification en tenant compte du mode de couplage, cela n'est pas le seul mode de  classification pouvant être utiliser, un des autres méthodes de classification est en foction de la distance. En tenant compte de la distance nous avons:
+	La transmission par couplage inductif et capacitif est une classification en tenant compte du mode de couplage, cela n'est pas le seul mode de  classification pouvant être utiliser, une des autres méthodes de classification est en foction de la distance. En tenant compte de la distance nous avons:
 	\begin{itemize}
 		\item \textbf{Champ lointain} (Par Laser et par micro-onde)
 		\item \textbf{Champ proche} (Par induction, par résonance,et par capacité )
@@ -257,6 +259,9 @@
 	
 	
 	\section{Simulation sur Simulink}
+	
+	Dans le but de mieux illustrer le fonctionnement d’un système de transfert d’énergie sans fil (WPT), une simulation a été réalisée à l’aide du logiciel Simulink. Cette simulation permet non seulement de visualiser le comportement dynamique du système, mais également d’en évaluer les performances selon différents paramètres. Elle offre un aperçu concret de la manière dont les lois théoriques du WPT s’appliquent dans une configuration pratique. Dans les sections suivantes, nous décrivons les objectifs de la simulation, les choix techniques effectués, ainsi que les résultats obtenus et leur interprétation.
+	
 	\subsection{Objectif de la simulation}
 	
 	L’objectif est de modéliser un système de transfert d’énergie sans fil (WPT) basé sur le couplage inductif résonant dans Simulink. Cette simulation permettra :
@@ -283,7 +288,7 @@
 	
 	Voici le schéma utilisé pour la manipulation sur Simulink:\\
 	\includegraphics[width=1\textwidth]{WPT_simul}\\
-	Ce modèle de schémas que j'ai utilisé ressemble à celui à celui d'une alimentation linéaire.  
+	
 	
 	\subsection{Paramètres de simulation}
 	Pour tester le schémas, voici les paramètres des composants ayant été utilisé.
@@ -301,12 +306,12 @@
 	\begin{itemize}
 		\item \textbf{Fréquence de la source ($100 kHz$):} Cette fréquence se situe dans la plage typique des systèmes WPT à courte distance, offrant un bon compromis entre compacité des composants et réduction des pertes.
 		\item \textbf{Inductances L1 et L2 ($100\ \mu H$) :} Ces valeurs sont adaptées pour obtenir, avec un condensateur choisi correctement, une résonance à la fréquence de 100 kHz.
-		\item  \textbf{Condensateur  $C = \approx 25.3\ nF$:} découle de la formule de la résonance:  $$C = \frac{1}{(2\pi f)^2 L}$$
+		\item  \textbf{Condensateur  $C \approx 25.3\ nF$:} découle de la formule de la résonance:  $$C = \frac{1}{(2\pi f)^2 L}$$
 		\item \textbf{Couplage $K=\ 0.5$:} Représente un couplage moyen, permettant d'étudier l'effet de la distance sur le rendement. La valeur de k est modulable pour analyse.
 		
-		Soit $d$(la distance entre les deux bobines) et $r$(le rayon de la bibine, si on considère que les deux bobines sont identiques pour simplifier les calculs).
+		Soit $d$(la distance entre les deux bobines) et $r$(le rayon de la bobine, si on considère que les deux bobines sont identiques pour simplifier les calculs).
 		
-		Pour le cas $d >> r$ on a $k \approx \frac{\pi \ r4}{d^3 \sqrt{\mu_o \epsilon_o}}$ qui veut dire que la valeur de k est inversement proportionnelle à la distance entre les bobines.
+		Pour le cas $d >> r$ on a $k \approx \frac{\pi \ r4}{d^3 \sqrt{\mu_o \epsilon_o}}$, ceci veut dire que \textbf{la valeur de k est inversement proportionnelle à la distance entre les bobines.}
 		\item \textbf{Charge RL ($10 \Omega$) :} Une valeur standard permettant une visualisation claire de la tension et du courant du côté récepteur.
 	\end{itemize}
 	
@@ -353,7 +358,7 @@
 	\
 	\\
 	\includegraphics[width=1\textwidth]{WPT_simul_gain1}\\
-	On remarque que plus on augmente le coefficient de couplage, plus le rendement aussi augmente.
+	On remarque que plus on augmente le coefficient de couplage, plus le rendement aussi augmente; autrement nous pouvont dire que lorsque la distance entre les bobines diminue, le rendement augmente. 
 	
 	\subsubsection*{Courbe du rendement}
 	Voici une courbe du rendement par rapport au coefficient de couplage(la distance)\\
@@ -369,7 +374,7 @@
 	
 	Des chercheurs ont publié une étude sur \textit{l'étude de la transmission d'energie sans fil $WPT$ basée sur la résonance couplée magnétique.}
 	
-	Voici le une image du montage qu'ils ont réalisé:\\
+	Voici l'image du montage qu'ils ont réalisé:\\
 	\includegraphics[width=1\textwidth]{WPT_disc}\\
 	
 	
@@ -578,6 +583,7 @@
 		\item IJETT. (2016). Revue de l'IJETT sur la WPT.
 		\item IEEE Spectrum. (2023). It’s Time to Rethink 6G.
 		\item Detka, K., \& Górecki, K. (2022). Wireless Power Transfer—A Review. Energies, 15(7236).
+		\item Etude Electromagnétique du Transfert Sans Fil d’Energie par voie de Couplage Inductif Résonant Série-Parallèle .pdf : mémoire
 		\item Huang, L., \& Hu, A.P. (2015). Defining the mutual coupling of capacitive power transfer for wireless power transfer. Electronics Letters.
 		\item https://theorycircuit.com/wireless/wireless-power-transmitter-and-receiver-circuit/
 		\item https://publications.polymtl.ca/1496/1/2014\_WeiWang.pdf

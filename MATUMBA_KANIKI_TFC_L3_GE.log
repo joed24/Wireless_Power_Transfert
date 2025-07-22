@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2022.11.8)  18 JUL 2025 18:56
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2022.11.8)  22 JUL 2025 13:51
 entering extended mode
 **MATUMBA_KANIKI_TFC_L3_GE.tex
 
@@ -492,7 +492,12 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 20.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
-) [1
+)
+Overfull \hbox (14.66821pt too wide) in paragraph at lines 20--20
+ [][] 
+ []
+
+[1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
 (C:\Users\WINDOWS10\Desktop\TFC\Wireless_Power_Transfert\MATUMBA_KANIKI_TFC_L3_
@@ -532,7 +537,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 63--64
 
 [6 <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfert/tour_tesla.png>]
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 72--73
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
 
  []
 
@@ -542,16 +547,16 @@ File: WPT_inductif.png Graphic file (type png)
 <WPT_inductif_1.png, id=37, 716.6775pt x 239.39438pt>
 File: WPT_inductif_1.png Graphic file (type png)
  <use WPT_inductif_1.png>
-Overfull \hbox (42.68173pt too wide) in paragraph at lines 74--77
+Overfull \hbox (42.68173pt too wide) in paragraph at lines 76--79
 [] 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 80.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 82.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 80.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 82.
  [8 <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfert/WPT_inductif.png> 
 <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfert/WPT_inductif_1.png>] [
 9] [10] [11]
@@ -566,147 +571,151 @@ File: WPT_capacitif_3.png Graphic file (type png)
 File: WPT_capacitif_1.png Graphic file (type png)
 
 <use WPT_capacitif_1.png>
-Overfull \hbox (2.61047pt too wide) in paragraph at lines 204--209
+Overfull \hbox (2.61047pt too wide) in paragraph at lines 206--211
 [] [] 
  []
 
 
-Overfull \hbox (42.68173pt too wide) in paragraph at lines 204--209
+Overfull \hbox (42.68173pt too wide) in paragraph at lines 206--211
 [] 
  []
 
-[12 <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfert/WPT_capacitif.png>
- <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfert/WPT_capacitif_3.png>]
-[13 <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfert/WPT_capacitif_1.pn
-g>] <classification_WPT.png, id=67, 602.25pt x 283.0575pt>
+[12] [13 <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfert/WPT_capacitif
+.png> <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfert/WPT_capacitif_3.
+png> <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfert/WPT_capacitif_1.p
+ng>] <classification_WPT.png, id=67, 602.25pt x 283.0575pt>
 File: classification_WPT.png Graphic file (type png)
 
 <use classification_WPT.png>
-Overfull \hbox (42.68173pt too wide) in paragraph at lines 253--254
+Overfull \hbox (42.68173pt too wide) in paragraph at lines 255--256
 [] 
  []
 
-[14 <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfert/classification_WPT
-.png>] <WPT_simul.png, id=72, 898.10532pt x 298.86656pt>
+[14] [15 <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfert/classificatio
+n_WPT.png>] <WPT_simul.png, id=75, 898.10532pt x 298.86656pt>
 File: WPT_simul.png Graphic file (type png)
- <use WPT_simul.png>
-[15 <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfert/WPT_simul.png>]
-[16]
 
-LaTeX Warning: Command \' invalid in math mode on input line 329.
+<use WPT_simul.png>
+Underfull \hbox (badness 10000) in paragraph at lines 289--291
+
+ []
+
+[16 <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfert/WPT_simul.png>]
+
+LaTeX Warning: Command \' invalid in math mode on input line 334.
 
 Missing character: There is no é in font cmr6!
-<WPT_simul_pv.png, id=86, 1028.34187pt x 530.73282pt>
+<WPT_simul_pv.png, id=84, 1028.34187pt x 530.73282pt>
 File: WPT_simul_pv.png Graphic file (type png)
  <use WPT_simul_pv.png>
-<WPT_simul_pc.png, id=87, 1028.34187pt x 549.55313pt>
+[17] <WPT_simul_pc.png, id=90, 1028.34187pt x 549.55313pt>
 File: WPT_simul_pc.png Graphic file (type png)
- <use WPT_simul_pc.png>
-[17 <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfert/WPT_simul_pv.png>]
-<WPT_simul_sv.png, id=92, 1028.34187pt x 550.30594pt>
+
+<use WPT_simul_pc.png> <WPT_simul_sv.png, id=91, 1028.34187pt x 550.30594pt>
 File: WPT_simul_sv.png Graphic file (type png)
- <use WPT_simul_sv.png>
-<WPT_simul_sc.png, id=93, 1027.58907pt x 547.2947pt>
+
+<use WPT_simul_sv.png> [18 <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Trans
+fert/WPT_simul_pv.png> <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfert
+/WPT_simul_pc.png>] <WPT_simul_sc.png, id=97, 1027.58907pt x 547.2947pt>
 File: WPT_simul_sc.png Graphic file (type png)
- <use WPT_simul_sc.png>
-[18 <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfert/WPT_simul_pc.png> 
-<C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfert/WPT_simul_sv.png>]
-<WPT_simul_gain.png, id=99, 889.82437pt x 296.60812pt>
+
+<use WPT_simul_sc.png> <WPT_simul_gain.png, id=98, 889.82437pt x 296.60812pt>
 File: WPT_simul_gain.png Graphic file (type png)
 
 <use WPT_simul_gain.png>
-Underfull \hbox (badness 10000) in paragraph at lines 350--352
+Underfull \hbox (badness 10000) in paragraph at lines 355--357
 
  []
 
-<WPT_simul_gain1.png, id=100, 366.61969pt x 165.61874pt>
+[19 <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfert/WPT_simul_sv.png> 
+<C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfert/WPT_simul_sc.png>]
+<WPT_simul_gain1.png, id=105, 366.61969pt x 165.61874pt>
 File: WPT_simul_gain1.png Graphic file (type png)
 
-<use WPT_simul_gain1.png> [19 <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Tr
-ansfert/WPT_simul_sc.png> <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transf
-ert/WPT_simul_gain.png>]
-<WPT_simul_gain_graph.png, id=107, 484.05844pt x 324.46219pt>
+<use WPT_simul_gain1.png>
+<WPT_simul_gain_graph.png, id=106, 484.05844pt x 324.46219pt>
 File: WPT_simul_gain_graph.png Graphic file (type png)
 
 <use WPT_simul_gain_graph.png>
-Underfull \hbox (badness 10000) in paragraph at lines 359--361
+Underfull \hbox (badness 10000) in paragraph at lines 364--366
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 367--369
-
- []
-
-[20 <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfert/WPT_simul_gain1.pn
-g> <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfert/WPT_simul_gain_grap
-h.png>] <WPT_disc.png, id=113, 413.29407pt x 300.3722pt>
-File: WPT_disc.png Graphic file (type png)
- <use WPT_disc.png>
+[20 <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfert/WPT_simul_gain.png
+> <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfert/WPT_simul_gain1.png>
+]
 Underfull \hbox (badness 10000) in paragraph at lines 372--374
 
  []
 
-<WPT_disc_1.png, id=114, 463.7325pt x 304.13625pt>
+<WPT_disc.png, id=112, 413.29407pt x 300.3722pt>
+File: WPT_disc.png Graphic file (type png)
+ <use WPT_disc.png>
+Underfull \hbox (badness 10000) in paragraph at lines 377--379
+
+ []
+
+[21 <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfert/WPT_simul_gain_gra
+ph.png>] <WPT_disc_1.png, id=117, 463.7325pt x 304.13625pt>
 File: WPT_disc_1.png Graphic file (type png)
- <use WPT_disc_1.png>
-[21 <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfert/WPT_disc.png>]
-[22 <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfert/WPT_disc_1.png>]
-[23]
-Overfull \hbox (4.39595pt too wide) in paragraph at lines 475--476
+
+<use WPT_disc_1.png> [22 <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfe
+rt/WPT_disc.png> <C:/Users/WINDOWS10/Desktop/TFC/Wireless_Power_Transfert/WPT_d
+isc_1.png>] [23] [24]
+Overfull \hbox (4.39595pt too wide) in paragraph at lines 480--481
 \T1/cmr/m/n/12 Les sys-tèmes de trans-fert d'énergie sans fil ($\OML/cmm/m/it/1
 2 WPT$\T1/cmr/m/n/12 ) ont un large éven-tail d'applications
  []
 
-[24]
-Overfull \hbox (5.27383pt too wide) in paragraph at lines 486--487
+
+Overfull \hbox (5.27383pt too wide) in paragraph at lines 491--492
 []\T1/cmr/bx/n/12 Chargement dy-namique \T1/cmr/m/n/12 : Des in-fras-truc-tures
  routières in-té-grant des bobines
  []
 
-
-Overfull \hbox (16.03528pt too wide) in paragraph at lines 503--504
+[25]
+Overfull \hbox (16.03528pt too wide) in paragraph at lines 508--509
 \T1/cmr/m/n/12 d'alimentation sans fil, l'avenir du WPT sem-ble promet-teur, of
 -frant des gains d'efficacité
  []
 
-[25]
-Overfull \hbox (5.485pt too wide) in paragraph at lines 521--522
+
+Overfull \hbox (5.485pt too wide) in paragraph at lines 526--527
 []\T1/cmr/bx/n/12 Efficacité én-ergé-tique \T1/cmr/m/n/12 : Les sys-tèmes WPT p
 eu-vent avoir des pertes d'énergie
  []
 
 
-Overfull \hbox (38.06297pt too wide) in paragraph at lines 523--524
+Overfull \hbox (38.06297pt too wide) in paragraph at lines 528--529
 []\T1/cmr/bx/n/12 Portée lim-itée \T1/cmr/m/n/12 : L'efficacité de la trans-mis
 -sion d'énergie diminue avec l'augmentation
  []
 
-
-Overfull \hbox (9.44086pt too wide) in paragraph at lines 539--540
+[26]
+Overfull \hbox (9.44086pt too wide) in paragraph at lines 544--545
 []\T1/cmr/bx/n/12 Efficacité én-ergé-tique \T1/cmr/m/n/12 : Des recherches sont
  en cours pour améliorer l'efficacité
  []
 
-[26]
-Overfull \hbox (0.38196pt too wide) in paragraph at lines 548--549
+
+Overfull \hbox (0.38196pt too wide) in paragraph at lines 553--554
 []\T1/cmr/bx/n/12 Chargement dy-namique des véhicules \T1/cmr/m/n/12 : Des pro-
 jets pi-lotes pour le charge-
  []
 
-[27] [28]
-Overfull \hbox (28.80817pt too wide) in paragraph at lines 582--583
+[27] [28] [29]
+Overfull \hbox (28.80817pt too wide) in paragraph at lines 588--589
 []\T1/cmr/m/n/12 https://theorycircuit.com/wireless/wireless-power-transmitter-
 and-receiver-circuit/ 
  []
 
-[29]
+[30]
 (C:\Users\WINDOWS10\Desktop\TFC\Wireless_Power_Transfert\MATUMBA_KANIKI_TFC_L3_
 GE.aux) ) 
 Here is how much of TeX's memory you used:
  3090 strings out of 494019
  38999 string characters out of 3143870
- 100282 words of memory out of 3000000
+ 100310 words of memory out of 3000000
  6309 multiletter control sequences out of 15000+200000
  20822 words of font info for 60 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
@@ -730,9 +739,9 @@ fonts/type1/public/cm-super/sfrm1200.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
 ts/type1/public/cm-super/sfrm1440.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/
 type1/public/cm-super/sfrm2074.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/typ
 e1/public/cm-super/sfti1200.pfb>
-Output written on MATUMBA_KANIKI_TFC_L3_GE.pdf (29 pages, 1461259 bytes).
+Output written on MATUMBA_KANIKI_TFC_L3_GE.pdf (30 pages, 1513833 bytes).
 PDF statistics:
- 203 PDF objects out of 1000 (max. 8388607)
+ 206 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  86 words of extra memory for PDF output out of 10000 (max. 10000000)
 
